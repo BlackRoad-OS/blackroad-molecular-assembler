@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Molecular Assembler
+# BlackRoad Molecular Assembler
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Molecular simulation and design platform for drug discovery and materials science.
 
-## 🚀 Quick Start
+## Features
+- **Molecule Builder** - 3D molecular design
+- **Simulation** - Molecular dynamics and quantum
+- **Drug Discovery** - Target identification
+- **Materials Design** - New material properties
+- **Visualization** - Interactive 3D rendering
+- **HPC Integration** - Cluster computing support
 
-```bash
-./blackroad-molecular-assembler.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
